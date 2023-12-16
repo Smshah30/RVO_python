@@ -1,4 +1,4 @@
-# clone the python_RVO2 repository NOT REQUIRED if unzipping the folder shared 
+# clone the python_RVO2 repository
 $ git clone https://github.com/sybrenstuvel/Python-RVO2.git
 
 
